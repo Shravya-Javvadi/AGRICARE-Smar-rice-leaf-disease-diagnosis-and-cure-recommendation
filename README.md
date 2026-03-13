@@ -60,9 +60,9 @@ The following models were trained and evaluated:
 | MobileNetV2 | 5 | ~88% |
 | ResNet50 | 10 | ~90% |
 | EfficientNetB0 | 10 | ~97% |
-| **Xception** | **10** | **~98%** |
+| Xception | 10 | ~98% |
 
-The **Xception model** was selected as the final model due to its superior accuracy and robustness.
+The **EfficientNetB0** was selected as the final model due to its superior accuracy and robustness.
 
 ---
 
@@ -267,3 +267,4 @@ Developed as part of an academic project in **Artificial Intelligence / Machine 
 # 📜 License
 
 This project is intended for **academic and research purposes only**.
+
